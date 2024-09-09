@@ -55,7 +55,6 @@ The project leverages several machine learning models to predict employee turnov
 3. **Random Forest Classifier**: An ensemble learning method that improves prediction accuracy by averaging multiple decision trees.
 4. **XGBoost Classifier**: A powerful gradient-boosting model that optimizes performance and handles overfitting better than other models.
 5. **XGBoost Regressor & Random Forest Regressor**: To predict employee performance (`last_evaluation`) based on features.
-6. **K-Means Clustering**: To analyze different profiles of employees based on their attributes.
 
 ---
 
